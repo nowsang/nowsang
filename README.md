@@ -14,6 +14,9 @@
 <a href="https://velog.io/@best_one" target="_blank">
 <img src=https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.linkedin.com/in/sangwon-choi-3ba047280/" target="_blank">
+<img src=https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nowsang&show_icons=true&include_all_commits=true&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowsang&layout=compact&hide_border=true&hide=Cmake,Makefile,C,Common%20Lisp,Cuda,Shell&exclude_repo=sos&langs_count=8" /></a> |
 | ------------- | ------------- |
