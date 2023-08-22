@@ -11,7 +11,7 @@
 <a href="https://ieeexplore.ieee.org/author/37088566159" target="_blank">
 <img src=https://img.shields.io/badge/Paper-253B73.svg?&style=for-the-badge&logo=Apache&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://velog.io/@best_one" target="_blank">
+<a href="https://velog.io/@sangwonchoi" target="_blank">
 <img src=https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/sangwon-choi-3ba047280/" target="_blank">
