@@ -31,8 +31,8 @@
 - 홍익대학교(세종) 전자전기공학과 : 2013.03 ~ 2019.08
 
 ## 🏆 Award
-- 가꿈: 삼성 청년 SW 아카데미 모빌리티 특화 프로젝트 (삼성전자주식회사) : 우수상 1등
-- SRCP2: Space Robotics Challenge Phase 2 (NASA) : <a href="http://www.irobotnews.com/news/articleView.html?idxno=23801" target="_blank">Qualification Winner 2021.02 </a>
+- <a href="https://github.com/nowsang/gaggum" target="_blank">가꿈 </a> : 삼성 청년 SW 아카데미 모빌리티 특화 프로젝트 (삼성전자주식회사) : 우수상 1등
+- <a href="https://github.com/nowsang/SRCP2" target="_blank">SRCP2 </a> : Space Robotics Challenge Phase 2 (NASA) : <a href="http://www.irobotnews.com/news/articleView.html?idxno=23801" target="_blank">Qualification Winner 2021.02 </a>
 
 ## 💻 Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chl7tkd4)](https://solved.ac/chl7tkd4)
